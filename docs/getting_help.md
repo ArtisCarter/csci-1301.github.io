@@ -66,9 +66,19 @@ Clément Aubert:
     - My office hours are M. & W. 10--12.
     - I have been teaching this class for many semesters, but I am always excited to meet new students and introduce you all to programming.
 -->  
-
-David Diestelhorst
+Artis Carter
 ~ 
+    - <artcarter@augusta.edu>
+    - Present for Section F's lab.
+    - Also present during Section C's lab.
+    - Best way to reach me is via email, [discord](http://discordapp.com/users/730957085717561364), or on teams.
+    - My office hours will primarily be held on teams or discord with in person appointments available upon request, they are
+        - Tuesday/Thursday: 5:00pm–7:00pm 
+        - Friday:          2:00pm–4:00pm
+    - I am a senior with a dual major in computer science and mathematics. You can find me eating Chick-fil-A or helping someone on discord or both.
+    
+David Diestelhorst
+~
     - <ddiestelhorst@augusta.edu>
     - Responsible for Section D's lab.
     - Also present during Section A's and Section B's labs.
@@ -86,7 +96,7 @@ Richard Kelley:
     - I'm a computer science major towards the end of my degree, and I'm always happy to see new computer science students and their different approaches to solving problems.
 
 Jason Weeks
-~ 
+~
     - <jaweeks@augusta.edu>
     - Responsible for Section D's lab
     - May also be present for Section C's lab
@@ -97,7 +107,7 @@ Jason Weeks
         - Friday: 9:00am - 12:00pm
     - I'm a fourth year Computer Science major, Math minor and a UCA for over two years now. I can't wait to help out another semester of 1301 students learn to code!
 
-Clément Aubert:
+ Clément Aubert:
  ~ 
      - <caubert@augusta.edu>
      - Responsible for Section B's lab.
