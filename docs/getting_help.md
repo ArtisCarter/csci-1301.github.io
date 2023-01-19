@@ -55,7 +55,7 @@ First Last:
 -->
 
 <!-- 
-For example,
+
 
 Clément Aubert:
 ~ 
